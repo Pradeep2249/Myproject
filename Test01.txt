@@ -1,2 +1,1 @@
-This file is created in local on dated 27.09.2022.
-This file is modified for revert command
+This file is created in local on dated 27.09.2022
